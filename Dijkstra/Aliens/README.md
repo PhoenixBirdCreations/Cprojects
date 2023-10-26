@@ -36,3 +36,5 @@ probability of no abduction on the edge - weigth of the edge (float)
 
 The nodes should be described sequentially: first block is for node 0, second block is for node 1, and so on.
 
+The example graph provided is the following:
+![example_graph](https://github.com/PhoenixBirdCreations/Cprojects/assets/55663736/22cc47b2-1104-4686-b765-01b732c527ae)
