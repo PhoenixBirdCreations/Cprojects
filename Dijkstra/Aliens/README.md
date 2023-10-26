@@ -30,8 +30,8 @@ If there is no route or an error occurs a message describing the issue will be p
 
 The graph for the problem is stored in a txt file with the following structure: in the first line there is the number of nodes in the graph. Afterwards there is a block for each node containing:
 
-number of adjacent nodes (int)
-id of adjacent nodes, separated by commas (int)
+number of adjacent nodes (int) <br>
+id of adjacent nodes, separated by commas (int) <br>
 probability of no abduction on the edge - weigth of the edge (float)
 
 The nodes should be described sequentially: first block is for node 0, second block is for node 1, and so on.
